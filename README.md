@@ -7,14 +7,14 @@
 
 # installation:
 
-'''
+```
 pkg install python
 pkg install python3
 pip install requests
 git clone https://github.com/dark-levi/MikrotikBF
 cd MikrotikBF 
 python3 mikrotikBF.py
-'''
+```
 
 # Usage:
 here is a <a href="https://google.com">tutorial</a>
