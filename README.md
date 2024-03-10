@@ -17,4 +17,4 @@ python3 mikrotikBF.py
 ```
 
 # Usage:
-here is a <a href="https://t.me/pentesting_lab">tutorial</a>
+here is a <a href="https://t.me/pentesting_lab/491">tutorial</a>
