@@ -14,7 +14,7 @@ pkg install git
 pkg install python
 pkg install python3
 pip install requests
-git clone https://github.com/dark-levi/MikrotikBF
+git clone https://github.com/darklevi7/MikrotikBF
 cd MikrotikBF 
 python3 mikrotikBF.py
 ```
